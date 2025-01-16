@@ -11,7 +11,8 @@ theme:
     -content.code.annotation
     -content.code.copy
   language: en
-  palette:      # Palette toggle for light mode
+  palette:
+                # Palette toggle for light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default 
         toggle:
