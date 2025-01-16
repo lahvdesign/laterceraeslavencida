@@ -13,13 +13,13 @@ theme:
   language: en
   palette:
     - scheme: default
-       toogle:
+      toogle:
         icon: material/toggle-switch-off-outline
         name: switch to dark mode
       primary: teal
       accent: purple
     - scheme: slate
-        toogle:
+      toogle:
         icon: material/toggle-switch
         name: switch to light mode
       primary: teal
