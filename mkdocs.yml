@@ -2,14 +2,12 @@ site_name: My Docs
 theme:
   name: material
   features:
-    -navigation.tabs
-    -navigation.sections
-    -toc.integrate
-    -navigation.top
-    -search.highlight
-    -content.tabs.link
-    -content.code.annotation
-    -content.code.copy
+   -navigation.tabs
+   -navigation.sections
+   -navigation.top
+   -content.tabs.link
+   -content.code.annotation
+   -content.code.copy
   language: en
   palette:
                 # Palette toggle for light mode
