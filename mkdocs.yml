@@ -22,4 +22,4 @@ theme:
         scheme: slate
         toggle:
           icon: material/toggle-switch-off-outline
-          name: Switch to system preference
+          name: Switch to light mode
