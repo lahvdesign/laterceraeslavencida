@@ -17,7 +17,7 @@ jobs:
       - uses: actions/cache@v2
         with:
           key: ${{ github.ref }}
-        path: .cache
+          path: .cache
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --force
